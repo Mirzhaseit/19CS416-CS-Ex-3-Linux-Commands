@@ -9,6 +9,8 @@ Linux commands are executed in the terminal, which is case-sensitive. This guide
 ### 1. `ls` Command
 
 The `ls` command is used to display a list of contents in a directory.
+![image](https://github.com/user-attachments/assets/cfde2ec1-8843-45f7-bbe1-eaa6c4db2041)
+
 
 **Syntax:** 
 ```bash
@@ -27,6 +29,8 @@ pwd
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/6f7b13ae-3f5a-4f81-ba45-af3eca826ce4)
+
 
 ### 3. `mkdir` Command
 
@@ -49,6 +53,8 @@ rmdir <directory_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/ae188d4e-71d4-4de2-88f8-63651dbca7e7)
+
 
 ### 5. `cd` Command
 
@@ -60,6 +66,8 @@ cd <directory_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/61a9063c-ff40-4e36-abd9-8de73482f3a3)
+
 
 ### 6. `cat` Command
 
@@ -71,6 +79,8 @@ cat [OPTION]... [FILE]...
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/0fc1eb6f-c0dc-4e9d-9042-b2c4ec42d604)
+
 
 ### 7. `cp` Command
 
